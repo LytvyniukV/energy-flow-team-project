@@ -1,0 +1,26 @@
+/* BASE */
+@import url('./base/common.css');
+@import url('./base/container.css');
+
+/* UTILS */
+@import url('./utils/variables.css');
+@import url('./utils/fonts.css');
+
+/* LAYOUT - HOME */
+@import url('./layout/header.css');
+@import url('./layout/hero.css');
+@import url('./layout/quote-home.css');
+@import url('./layout/exercise.css');
+@import url('./layout/exercise-card.css');
+@import url('./layout/recomendation.css');
+@import url('./layout/footer.css');
+
+/* LAYOUT - FAVORITES */
+@import url('./layout/quote-favorites.css');
+@import url('./layout/favorites.css');
+
+/* WONDOWS */
+@import url('./layout/mobile-menu.css');
+@import url('./layout/modal-give-rating.css');
+@import url('./layout/up-btn.css');
+@import url('./layout/modal-window.css');
